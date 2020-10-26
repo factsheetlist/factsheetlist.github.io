@@ -60,14 +60,17 @@ Factsheets intended to debunk misconceptions or false claims about LGBT people
 -   [RGR Research Outline](https://docs.google.com/document/d/1mSmlUb68zcols82GCL2ECfODDYw97mhW/mobilebasic)
     -   A great FAQ on transgender people
 -   [Detransitioning is rarer than a lot of people say](https://docs.google.com/document/d/1KxCxhpj1CAOr8CzWow-rUeBZig6q6n49x3MPdFXhzL8/mobilebasic)
-    -   Studies and stats that show that detransitioning is rarer than a lot of people say.
+    -   Studies and stats that show that detransitioning is rarer than a lot of people say
 
 ## Race
 
 Factsheets and sources critiquing the utility and biological validity of Race
 
+-   [Race Realism](https://docs.google.com/document/d/1UoK4E6amunVpMLutG2q4cANK7qd8B9Hd4PzUNmYlyYE/mobilebasic) \[8844 words\]
+    -   Excellent doc about Race Realism; very extensive and gets straight to the point
+    -   Includes rebuttals to commonly cited Race Realist authors and some studies
 -   [Useful Links for Arguing with Racists](https://docs.google.com/document/d/1qhW9j1dexPe2VJWr83ufZHaAlOiEGvaHe9ARUqmWNuA/mobilebasic)
-    -   A big meta-collection of links/sources to combat racist talking-points.
+    -   A big meta-collection of links/sources to combat racist talking-points
 -   [The RationalWiki Article on Racialism](https://rationalwiki.org/wiki/Racialism)
     -   Extensive and nuanced look into race realism/racialism and its validity
 -   [Thorough refutation of race realism](https://docs.google.com/document/d/1-2DYTdtZEwBMVadz3ZfQaUyxMJWkfWA9f_Rub0OQ0p0/mobilebasic)
@@ -119,6 +122,8 @@ Factsheets and sources on bad things the United States has done or continues to 
 
 Factsheets and sources about why Trump sucks
 
+-   [Biden > Trump](https://docs.google.com/document/d/1-dDFOk4yvlGwkURvq9j5Fp3ztd0L23DGcSBSjilusgQ/mobilebasic) \[7377 words\]
+    -   Why Joe Biden is the superior candidate compared to Trump for the 2020 Presidential election.
 -   [Trump Factsheet](https://docs.google.com/document/d/1QymP9F4y_sVjII-AI6Dzvc9yWeOjC1TsgyLx-GfGLDg/mobilebasic) \[3251 words\] \[WIP\]
     -   A great list of Trump's bad policies and other stats about him by NB419
 -   [Why Trump is Bad](https://docs.google.com/document/d/12ROf1zOOU7tzdvPwMlE-NtLDIMpUsnMiIUArZGvFAXo/mobilebasic)
@@ -173,12 +178,14 @@ These are tools that you can use to help you access information freely
 
 -   [Sci-Hub](https://scihub.wikicn.top/) \[Link may break, just google "sci hub" if it does\]
     -   Use this to un-paywall studies/academic journals, i.e. read them for free.
+-   [allsides.com](https://www.allsides.com/)
+    -   Shows you each side of the aisle's take on recent events.
 -   [outline.com](https://outline.com/)
     -   Use this to access *some* news articles that require a subscription.
-	-	It's also good for achieving distraction-free reading.
+    -   It's also good for achieving distraction-free reading.
 -   [Holy Bible of Jigs](https://anonfiles.com/d6J32ch2pa/jigs_pdf)
     -   How to get a bunch of free shit from le corporations. You're welcome
-	-	Original doc was removed, if you can find a more up to date version DM me
+    -   Original doc was removed, if you can find a more up to date version DM me
 
 ---
 
