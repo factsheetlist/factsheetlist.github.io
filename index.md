@@ -14,7 +14,7 @@ If a provided resource is only one source (i.e. is just one study) or it is unli
 
 While the order these factsheets are presented in is not particularly important, it generally follows the rule of "higher up in the category = more useful or higher quality"
 
-This list is also on [Google Docs](https://docs.google.com/document/d/1OiSFG4P3QUBfPjXH6Tl-RC_Y-Lwnrrh3Qiea3yA4_ZU/mobilebasic)
+This list was originally on Google Docs. That version is now deprecated, please check this site for the latest version instead.
 
 ## General
 
