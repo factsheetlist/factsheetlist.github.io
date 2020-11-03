@@ -2,7 +2,7 @@ This doc is intended to provide an expansive, organized, but non-sectarian meta-
 
 This document is ideologically neutral. It is merely intended to compile resources which anyone with generally progressive convictions should be able to use extensively
 
-If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM at **(SoopaKhell\#0094)**
+If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM at **SoopaKhell\#0094**.
 
 For a resource to qualify for the list, it should generally do one of the following using multiple studies or sources (and preferably with some sort of analysis or explanation of said sources):
 
