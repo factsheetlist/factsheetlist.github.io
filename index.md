@@ -1,6 +1,6 @@
-This doc is intended to provide an expansive, organized, but non-sectarian meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview
+This doc is intended to provide an expansive, organized, but non-sectarian meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview.
 
-This document is ideologically neutral. It is merely intended to compile resources which anyone with generally progressive convictions should be able to use extensively
+This document is ideologically neutral. It is merely intended to compile resources which anyone with generally progressive convictions should be able to use extensively.
 
 If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM at **SoopaKhell\#0094**.
 
@@ -10,15 +10,15 @@ For a resource to qualify for the list, it should generally do one of the follow
 -   debunk one or more specific claims
 -   answer one or more specific questions (i.e. an FAQ)
 
-If a provided resource is only one source (i.e. is just one study) or it is unlikely to be useful in a debate (i.e. it is only intended to educate, not primarily intended to debunk or prove a claim) it probably does not qualify for the list
+If a provided resource is only one source (i.e. is just one study) or it is unlikely to be useful in a debate (i.e. it is only intended to educate, not primarily intended to debunk or prove a claim) it probably does not qualify for the list.
 
-While the order these factsheets are presented in is not particularly important, it generally follows the rule of "higher up in the category = more useful or higher quality"
+While the order these factsheets are presented in is not particularly important, it generally follows the rule of "higher up in the category = more useful or higher quality".
 
 This list was originally on Google Docs. That version is now deprecated, please check this site for the latest version instead.
 
 ## General
 
-These are factsheets with a very broad scope
+These are factsheets with a very broad scope.
 
 -   [Source Library](https://docs.google.com/document/u/0/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/mobilebasic) \[71734 words\]
     -   Incredibly comprehensive collection of facts and studies on a wide range of points by NB419, Scuter, and other contributors (join the discord [here](https://discord.gg/UQhGKNm))
@@ -36,7 +36,7 @@ These are factsheets with a very broad scope
 
 ## Energy / Climate
 
-Factsheets dealing with the scientific reality of climate change and the efficacy of renewable energy sources
+Factsheets dealing with the scientific reality of climate change and the efficacy of renewable energy sources.
 
 -   [Energy Factsheet](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/mobilebasic) \[2228 words\]
     -   "A brief look at the shortcomings of fossil fuels and the efficacy of nuclear power and renewable sources for a clean, efficient, and sustainable future." by NB419
@@ -49,7 +49,7 @@ Factsheets dealing with the scientific reality of climate change and the efficac
 
 ## LGBT
 
-Factsheets intended to debunk misconceptions or false claims about LGBT people
+Factsheets intended to debunk misconceptions or false claims about LGBT people.
 
 -   [LGBT FAQ](https://docs.google.com/document/d/1tzVPLZaHx--HdLFqwUeCYCNOgD44dGYPM84pJ1JjbKc/mobilebasic) \[4725 words\]
     -   Provides counter-arguments, rebuttals, and answers to many common questions chuds may ask you about LGBT people
@@ -66,7 +66,7 @@ Factsheets intended to debunk misconceptions or false claims about LGBT people
 
 ## Race
 
-Factsheets and sources critiquing the utility and biological validity of Race
+Factsheets and sources critiquing the utility and biological validity of Race.
 
 -   [Race Realism](https://docs.google.com/document/d/1UoK4E6amunVpMLutG2q4cANK7qd8B9Hd4PzUNmYlyYE/mobilebasic) \[8844 words\]
     -   Excellent doc about Race Realism; very extensive and gets straight to the point
@@ -84,7 +84,7 @@ Factsheets and sources critiquing the utility and biological validity of Race
 
 ## BLM / Systemic Racism
 
-Factsheets containing evidence for insitutional/systemic discrimination, particularly against people of color. Also includes those in support of BLM
+Factsheets containing evidence for insitutional/systemic discrimination, particularly against people of color. Also includes those in support of BLM.
 
 -   [Resources Against BLM Skepticism](https://docs.google.com/document/d/1SbI4NIqFrQ1gqOvt9LJxV4cfwF4dyfWolqJ-CRX3rfw/mobilebasic)
     -   A doc with several detailed counter-arguments and debunks to common reproaches against Black Lives Matter
@@ -101,7 +101,7 @@ Factsheets containing evidence for insitutional/systemic discrimination, particu
 
 ## United States
 
-Factsheets and sources on bad things the United States has done or continues to do
+Factsheets and sources on bad things the United States has done or continues to do.
 
 -   [List of Atrocities Committed by U.S. Authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
     -   An overwhelmingly detailed and thorough documentation of terrible acts the US has committed overseas and domestically by dessalines on GitHub
@@ -122,7 +122,7 @@ Factsheets and sources on bad things the United States has done or continues to 
 
 ## Trump
 
-Factsheets and sources about why Trump sucks
+Factsheets and sources about why Trump sucks.
 
 -   [Biden > Trump](https://docs.google.com/document/d/1-dDFOk4yvlGwkURvq9j5Fp3ztd0L23DGcSBSjilusgQ/mobilebasic) \[7377 words\]
     -   Why Joe Biden is the superior candidate compared to Trump for the 2020 Presidential election
@@ -147,7 +147,7 @@ Factsheets and sources about why Trump sucks
 
 ## Uncategorized / Fun
 
-Factsheets that don't fit neatly into the other categories, or ones that only exist for fun
+Factsheets that don't fit neatly into the other categories, or ones that only exist for fun.
 
 -   [Ultimate \#1 State-funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/mobilebasic)
     -   Numerous sources pertaining to relevant debates over American economic policy from a lefty perspective, but existing within the realm of left-liberal policies of the Democrats
@@ -176,7 +176,7 @@ Factsheets that don't fit neatly into the other categories, or ones that only ex
 
 ## Useful Tools
 
-These are tools that you can use to help you access information freely
+These are tools that you can use to help you access information freely.
 
 -   [Sci-Hub](https://scihub.wikicn.top/) \[Link may break, just google "sci hub" if it does\]
     -   Use this to un-paywall studies/academic journals, i.e. read them for free
