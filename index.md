@@ -159,6 +159,8 @@ Factsheets that don't fit neatly into the other categories, or ones that only ex
     -   A large playlist of \~150 video responses debunking or fact-checking PragerU
 -   [Critiques of PragerU Videos](https://knowthesystem.org/reviews/)
     -   Several short critiques and debunks of some PragerU videos
+-   [Vaccines Research Document](https://docs.google.com/document/d/1fZj78ylDcPhXIvLBtEGTcyKDtjFCKv99hjoIG0USZIo/mobilebasic)
+    -   "debunks many common anti-vaccine claims supported with numerous sources" by unmastered____
 -   [Minimum Wage Increases do not Cause Job Loss](https://www.businessforafairminimumwage.org/news/00135/research-shows-minimum-wage-increases-do-not-cause-job-loss)
     -   A collection of studies which show that raising the minimum wage does not raise unemployment
 -   [Debunking \"Hitler was a Socialist\"](https://docs.google.com/document/d/1NmY4-9KzMx9G1uEoxgc4VBm2dpQRH1gu8wdT5_Djwzc/mobilebasic)
