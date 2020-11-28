@@ -101,12 +101,14 @@ Factsheets containing evidence for insitutional/systemic discrimination, particu
 
 ## United States
 
-Factsheets and sources on bad things the United States has done or continues to do.
+Factsheets primarily concerned with US politics, voting systems, and government.
 
 -   [List of Atrocities Committed by U.S. Authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
     -   An overwhelmingly detailed and thorough documentation of terrible acts the US has committed overseas and domestically by dessalines on GitHub
 -   [US Imperialism](https://docs.google.com/document/d/1o3UycdBFOziaBxEtoEuUaC_NuJPfQlDsMA4YA1KRlkM/mobilebasic) \[WIP\]
     -   A breakdown of instances of US Imperialism throughout history by RockyDerFailure
+-   [Debunking 2020 Voter Fraud Claims](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/mobilebasic)
+    -   Debunks common claims of fraud in the 2020 presidential election.
 -   [Answering Myths - National Popular Vote](https://www.nationalpopularvote.com/answering-myths)
     -   HEAPS of debunks to common myths about the Electoral College, US voting systems, and [the National Popular Vote Interstate Compact](https://www.nationalpopularvote.com/written-explanation). Basically refutes every defense of the Electoral College ever conceived
 -   [ACLU Fact Sheet on Voter ID Laws](https://www.aclu.org/sites/default/files/field_document/aclu_voter_id_fact_sheet_-_final.pdf)
