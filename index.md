@@ -4,7 +4,7 @@ This document is ideologically neutral. It is merely intended to compile resourc
 
 If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM at **SoopaKhell\#0094**.
 
-For a resource to qualify for the list, it should generally do one of the following using multiple studies or sources (and preferably with some sort of analysis or explanation of said sources):
+Try to recommend *compilations* of sources. For a resource to qualify for the list, it should generally do one of the following using multiple studies or sources (and preferably with some sort of analysis or explanation of said sources):
 
 -   prove one or more specific claims
 -   debunk one or more specific claims
@@ -14,7 +14,10 @@ If a provided resource is only one source (i.e. is just one study) or it is unli
 
 While the order these factsheets are presented in is not particularly important, it generally follows the rule of "higher up in the category = more useful or higher quality".
 
-This list was originally on Google Docs. That version is now deprecated, please check this site for the latest version instead.
+All of the links that end in "/mobilebasic" can be replaced with "/edit" to access the google docs/sheets version, allowing you to make a copy of it on your own account.
+
+This list was originally on Google Docs. That version is now deprecated, please check [soopakhell.xyz](http://www.soopakhell.xyz) for the latest version instead.
+
 
 ## General
 
