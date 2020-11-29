@@ -189,6 +189,8 @@ These are tools that you can use to help you access information freely.
 -   [outline.com](https://outline.com/)
     -   Use this to access *some* news articles that require a subscription
     -   It's also good for achieving distraction-free reading
+-   [Vegan Cheat Sheet](https://docs.google.com/spreadsheets/d/19Cm5yHp16zSTSFrQ3B_3_vIK0b5QlJ8jpyPVrPrCKS0/htmlview)
+    -   Go vegan!
 -   [Holy Bible of Jigs](https://anonfiles.com/d6J32ch2pa/jigs_pdf)
     -   How to get a bunch of free shit from le corporations. You're welcome
     -   Original doc was removed, if you can find a more up to date version DM me
