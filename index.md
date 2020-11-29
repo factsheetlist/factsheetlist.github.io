@@ -4,7 +4,7 @@ This document is ideologically neutral. It is merely intended to compile resourc
 
 If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM on Discord at **SoopaKhell\#0094**.
 
-Try to recommend *compilations* of sources. For a resource to qualify for the list, it should generally do one of the following using multiple studies or sources (and preferably with some sort of analysis or explanation of said sources):
+Try to recommend *compilations* of sources. For a resource to qualify for the list, it should generally do one or more of the following using multiple studies or sources (and preferably with some sort of analysis or explanation of said sources):
 
 -   prove one or more specific claims
 -   debunk one or more specific claims
