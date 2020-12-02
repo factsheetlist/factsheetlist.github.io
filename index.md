@@ -1,3 +1,5 @@
+<meta property="og:site_name" content="IMDb" />
+
 This doc is intended to provide an expansive, organized, but non-sectarian meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview.
 
 This document is ideologically neutral. It is merely intended to compile resources which anyone with generally progressive convictions should be able to use extensively.
