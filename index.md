@@ -23,7 +23,7 @@ This list was originally on Google Docs. That version is now deprecated, please 
 
 These are factsheets with a very broad scope.
 
--   [Source Library](https://docs.google.com/document/u/0/d/1UhneOJvvO9vzHIUWfgKWJCCFi0LDNj_3p6LGBkIo6mU/mobilebasic) \[71734 words\]
+-   [Source Library](https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/mobilebasic) \[71734 words\]
     -   Incredibly comprehensive collection of facts and studies on a wide range of points by NB419, Scuter, and other contributors (join the discord [here](https://discord.gg/UQhGKNm))
 -   [Stinky Rightwinger Factsheet](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html) \[135118 words\]
     -   An excellent and organized collection of sources and statistics by Socialism Done Left
