@@ -74,6 +74,8 @@ Factsheets and sources critiquing the utility and biological validity of Race.
 -   [Race Realism](https://docs.google.com/document/d/1UoK4E6amunVpMLutG2q4cANK7qd8B9Hd4PzUNmYlyYE/mobilebasic) \[8844 words\]
     -   Excellent doc about Race Realism; very extensive and gets straight to the point
     -   Includes rebuttals to commonly cited Race Realist authors and some studies
+-   [Racism doc](https://docs.google.com/document/d/1_BMYsKh6O7Q58YRG8ARMr5Pjt-CrRdkbmZYbQS5p5zk/mobilebasic)
+    -   Just a few links explaining why race is fake news
 -   [Useful Links for Arguing with Racists](https://docs.google.com/document/d/1qhW9j1dexPe2VJWr83ufZHaAlOiEGvaHe9ARUqmWNuA/mobilebasic)
     -   A big meta-collection of links/sources to combat racist talking-points
 -   [The RationalWiki Article on Racialism](https://rationalwiki.org/wiki/Racialism)
