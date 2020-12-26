@@ -18,6 +18,7 @@ All of the links that end in "/mobilebasic" can be replaced with "/edit" to acce
 
 This list was originally on Google Docs. That version is now deprecated, please check [soopakhell.xyz](http://www.soopakhell.xyz) for the latest version instead.
 
+Keep in mind: **I cannot verify the veracity of all the information presented here. Don't be surprised if some of the studies/papers presented in these links were retracted by their authors, have serious methodological flaws, or are generally low-quality. Just know you have been warned.**
 
 ## General
 
