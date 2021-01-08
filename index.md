@@ -1,16 +1,8 @@
-This doc is intended to provide an expansive, organized, but non-sectarian meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview.
-
-This document is ideologically neutral. It is merely intended to compile resources which anyone with generally progressive convictions should be able to use extensively.
+This doc is intended to provide an expansive and organized meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview.
 
 If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM on Discord at **SoopaKhell\#0094**.
 
-Try to recommend *compilations* of sources. For a resource to qualify for the list, it should generally do one or more of the following using multiple studies or sources (and preferably with some sort of analysis or explanation of said sources):
-
--   prove one or more specific claims
--   debunk one or more specific claims
--   answer one or more specific questions (i.e. an FAQ)
-
-If a provided resource is only one source (i.e. is just one study) or it is unlikely to be useful in a debate (i.e. it is only intended to educate, not primarily intended to debunk or prove a claim) it probably does not qualify for the list.
+Try to recommend *compilations* of sources. If a provided resource is only one source (i.e. is just one study) or it is unlikely to be particularly useful in a debate (i.e. it is only intended to educate, not primarily intended to debunk or prove a claim) it probably does not qualify for the list. If you are unsure, send it to me anyways.
 
 While the order these factsheets are presented in is not particularly important, it generally follows the rule of "higher up in the category = more useful or higher quality".
 
