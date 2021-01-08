@@ -90,7 +90,7 @@ Factsheets and sources critiquing the utility and biological validity of Race.
 -   [How Heritability Misleads about Race](https://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Heritability.html)
     -   An excellent analysis and critique of The Bell Curve and claims concerning IQ and race
 
-## BLM / Systemic Racism
+## BLM / Systemic Racism / Police
 
 Factsheets containing evidence for insitutional/systemic discrimination, particularly against people of color. Also includes those in support of BLM.
 
@@ -106,10 +106,25 @@ Factsheets containing evidence for insitutional/systemic discrimination, particu
     -   A collection of sources relevant to the 2020 protests, triggered after the murder of George Floyd
 -   [WaPo Criminal Justice System](https://outline.com/rMR2Hs)
     -   A great Washington Post article outlining evidence for all of the ways in which people of color are discriminated against in the Criminal Justice System in the US
+-   [Mapping Police Violence](https://mappingpoliceviolence.org/)
+    -   Some neat graphics about police violence in the US
+
+## Electoral Reform
+
+Resources on ways we can improve how democracy functions.
+
+-   [FairVote.org Reform Library](https://www.fairvote.org/reform_library)
+    -   A whole host of feasible reforms to (US) voting systems/laws. Could also apply to other countries.
+-   [Answering Myths - National Popular Vote](https://www.nationalpopularvote.com/answering-myths)
+    -   HEAPS of debunks to common myths about the Electoral College, US voting systems, and [the National Popular Vote Interstate Compact](https://www.nationalpopularvote.com/written-explanation). Highly recommeded
+-   [Democracy Reforms Research](https://docs.google.com/document/d/1a1xEn2NCXCPOoFWxYZD0Bc6TZrJgpcQTsj6Rp19gdDk/mobilebasic)
+    -   A pretty good rundown of flaws in American democracy, and proposed solutions to these flaws
+-   [ACLU Fact Sheet on Voter ID Laws](https://www.aclu.org/sites/default/files/field_document/aclu_voter_id_fact_sheet_-_final.pdf)
+    -   Some useful stats on the effects and efficacy of Voter ID legislation
 
 ## United States
 
-Factsheets primarily concerned with US politics, voting systems, and government.
+Factsheets primarily concerned with problems in US government and politics.
 
 -   [List of Atrocities Committed by U.S. Authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
     -   An overwhelmingly detailed and thorough documentation of terrible acts the US has committed overseas and domestically by dessalines on GitHub
@@ -117,19 +132,11 @@ Factsheets primarily concerned with US politics, voting systems, and government.
     -   A breakdown of instances of US Imperialism throughout history by RockyDerFailure
 -   [Debunking 2020 Voter Fraud Claims](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/mobilebasic)
     -   Debunks common claims of fraud in the 2020 presidential election.
--   [Answering Myths - National Popular Vote](https://www.nationalpopularvote.com/answering-myths)
-    -   HEAPS of debunks to common myths about the Electoral College, US voting systems, and [the National Popular Vote Interstate Compact](https://www.nationalpopularvote.com/written-explanation). Basically refutes every defense of the Electoral College ever conceived
--   [ACLU Fact Sheet on Voter ID Laws](https://www.aclu.org/sites/default/files/field_document/aclu_voter_id_fact_sheet_-_final.pdf)
-    -   Some useful stats on the effects and efficacy of Voter ID legislation
--   [Democracy Reforms Research](https://docs.google.com/document/d/1a1xEn2NCXCPOoFWxYZD0Bc6TZrJgpcQTsj6Rp19gdDk/mobilebasic)
-    -   A pretty good rundown of flaws in American democracy, and proposed solutions to these flaws
--   [Poverty Fact Sheet](https://docs.google.com/document/d/10XqJh8CxTP0mTTfdGM4EeXc5HTkanfmJlvFRP7MhINU/mobilebasic) \[From 2015, some stats are outdated\]
-    -   A compilation of stats on US poverty, unemployment, etc. The failures of capitalism
--   [Mapping Police Violence](https://mappingpoliceviolence.org/)
-    -   Some neat graphics about police violence in the US
 -   [Voter Suppression During the 2018 Midterm Elections](https://outline.com/rGXGnN)
     -   "A comprehensive survey of voter suppression and other Election Day problems"
-
+-   [Poverty Fact Sheet](https://docs.google.com/document/d/10XqJh8CxTP0mTTfdGM4EeXc5HTkanfmJlvFRP7MhINU/mobilebasic) \[From 2015, some stats are outdated\]
+    -   A compilation of stats on US poverty, unemployment, etc.
+    
 ## Trump
 
 Factsheets and sources about why Trump sucks.
