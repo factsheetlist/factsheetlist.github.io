@@ -72,6 +72,8 @@ Factsheets intended to debunk misconceptions or false claims about LGBT people.
 
 Factsheets and sources critiquing the utility and biological validity of Race.
 
+-   [Mutualism](https://docs.google.com/document/d/1KcvxBOHSuUg5RvJNoxAJx_nY5UXOwHuRGCqKf8Efn_g/edit?usp=sharing)
+    -   Evidence for mutualism, the theory of intelligence that your different cognitive abilities (vocabulary, reasoning, mathematics) help eachother grow over time. This theory is generally proposed as an alternative to the g factor model of intelligence.
 -   [Race Realism](https://docs.google.com/document/d/1UoK4E6amunVpMLutG2q4cANK7qd8B9Hd4PzUNmYlyYE/mobilebasic) \[8844 words\]
     -   Excellent doc about Race Realism; very extensive and gets straight to the point
     -   Includes rebuttals to commonly cited Race Realist authors and some studies
