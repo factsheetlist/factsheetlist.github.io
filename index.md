@@ -22,6 +22,8 @@ These are factsheets with a very broad scope.
     -   An excellent and organized collection of sources and statistics by Socialism Done Left
 -   [gaffepundit's Website](https://sites.google.com/view/matteristheminimum/)
     -   A website which serves as a great compilation of debunks on BLM, Law enforcement, systemic racism, and some other topics
+-   [argument mega doc](https://docs.google.com/document/d/1Ldspdu3DRXhBS_6EyHORYl8RZ_Wqto3N1cwIowa_fOg/mobilebasic)
+    -   Some quick points and resources on a variety of topics
 -   [Lefty Fact Sheet](https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/mobilebasic) \[15391 words\]
     -   A detailed and broad collection of sources supporting leftism/leftist ideology by Naturea
 -   [Leftist Almanac of Research and Policy](https://docs.google.com/document/d/1mQhMGz6SeDPXJjkNcO8FuNsTaA6Q5McAxTw6VqQ1dPs/mobilebasic) \[20667 words\]
