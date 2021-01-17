@@ -1,4 +1,4 @@
-This doc is intended to provide an expansive and organized meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview.
+This site is intended to provide an expansive and organized meta-compilation of high-quality factsheets, documents, resources, essays, and links supporting a broadly **progressive** worldview.
 
 If you have a resource you believe would be a good addition, or you would like to make any suggestion at all really, please shoot me a DM on Discord at **SoopaKhell\#0094**.
 
