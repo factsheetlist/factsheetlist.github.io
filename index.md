@@ -200,9 +200,6 @@ These are tools that you can use to help you access information freely.
     -   It's also good for achieving distraction-free reading
 -   [Vegan Cheat Sheet](https://vegancheatsheet.org)
     -   Go vegan!
--   [Holy Bible of Jigs](https://anonfiles.com/d6J32ch2pa/jigs_pdf)
-    -   How to get a bunch of free shit from le corporations. You're welcome
-    -   Original doc was removed, if you can find a more up to date version DM me
 
 ---
 
