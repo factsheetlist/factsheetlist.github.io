@@ -160,6 +160,8 @@ Factsheets and sources about why Trump sucks.
 
 Factsheets that don't fit neatly into the other categories, or ones that only exist for fun.
 
+-   [Critiques Of Libertarianism](http://critiques.us)
+    -   Numerous criticisms of libertarians/ancaps/objectivists. Surprisingly detailed
 -   [Ultimate \#1 State-funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/mobilebasic)
     -   Numerous sources pertaining to relevant debates over American economic policy from a lefty perspective, but existing within the realm of left-liberal policies of the Democrats
 -   [Debunking the \'human nature\' myth](https://docs.google.com/document/d/1AumVF0JV_dZrTSiW5z5L2oj9fj3pCLRcZTiqYyG-4bo/mobilebasic)
