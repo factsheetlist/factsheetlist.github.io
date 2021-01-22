@@ -24,6 +24,8 @@ These are factsheets with a very broad scope.
     -   A website which serves as a great compilation of debunks on BLM, Law enforcement, systemic racism, and some other topics
 -   [argument mega doc](https://docs.google.com/document/d/1Ldspdu3DRXhBS_6EyHORYl8RZ_Wqto3N1cwIowa_fOg/mobilebasic)
     -   Some quick points and resources on a variety of topics
+-   [Ultimate \#1 State-funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/mobilebasic)
+    -   Numerous sources pertaining to relevant debates over American economic policy from a lefty perspective, but existing within the realm of left-liberal policies of the Democrats
 -   [Lefty Fact Sheet](https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/mobilebasic) \[15391 words\]
     -   A detailed and broad collection of sources supporting leftism/leftist ideology by Naturea
 -   [Leftist Almanac of Research and Policy](https://docs.google.com/document/d/1mQhMGz6SeDPXJjkNcO8FuNsTaA6Q5McAxTw6VqQ1dPs/mobilebasic) \[20667 words\]
@@ -162,8 +164,6 @@ Factsheets that don't fit neatly into the other categories, or ones that only ex
 
 -   [Critiques Of Libertarianism](http://critiques.us)
     -   Numerous criticisms of libertarians/ancaps/objectivists. Surprisingly detailed
--   [Ultimate \#1 State-funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/mobilebasic)
-    -   Numerous sources pertaining to relevant debates over American economic policy from a lefty perspective, but existing within the realm of left-liberal policies of the Democrats
 -   [Debunking the \'human nature\' myth](https://docs.google.com/document/d/1AumVF0JV_dZrTSiW5z5L2oj9fj3pCLRcZTiqYyG-4bo/mobilebasic)
     -   Debunks the idea that "humans are inherently selfish" u/Albamc35
 -   [Abolish the Death Penalty](https://docs.google.com/document/d/1Jc30ECidjRdsP5BrSyt5lu07DOP6FB4PGmC9Ok9tiMI/mobilebasic) \[WIP\]
