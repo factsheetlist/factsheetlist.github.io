@@ -16,10 +16,10 @@ Keep in mind: **I cannot verify the veracity of all the information presented he
 
 These are factsheets with a very broad scope.
 
--   [Source Library](https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/mobilebasic) \[71734 words\]
-    -   Incredibly comprehensive collection of facts and studies on a wide range of points by NB419, Scuter, and other contributors (join the discord [here](https://discord.gg/UQhGKNm))
 -   [Stinky Rightwinger Factsheet](https://socdoneleft.github.io/stinky_rightwinger_factsheet.html) \[135118 words\]
     -   An excellent and organized collection of sources and statistics by Socialism Done Left
+-   [Source Library](https://docs.google.com/document/d/1q04ryP_d-smtSSwXkDATFQd-4UcQBlgpfWULdvLgh2M/mobilebasic) \[71734 words\]
+    -   Comprehensive collection of facts and studies on a wide range of points by NB419, Scuter, and other contributors (join the discord [here](https://discord.gg/UQhGKNm))
 -   [Social Democrat Library](https://socdemlibrary.herokuapp.com/)
     -   a compilation of studies, data, media, literature, etc. aimed at arguing for social-democratic viewpoints
 -   [argument mega doc](https://docs.google.com/document/d/1Ldspdu3DRXhBS_6EyHORYl8RZ_Wqto3N1cwIowa_fOg/mobilebasic)
