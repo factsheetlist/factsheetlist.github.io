@@ -197,7 +197,7 @@ These are tools that you can use to help you access information freely.
 
 -   [Sci-Hub](https://scihub.wikicn.top/) \[Link may break, just google "sci hub" if it does\]
     -   Use this to un-paywall studies/academic journals, i.e. read them for free
--   [openstax](https://openstax.org/)
+-   [openstax](https://openstax.org/subjects/view-all)
     -   peer-reviewed and openly-licensed textbooks available in free digital formats
 -   [allsides.com](https://www.allsides.com/)
     -   Shows you each side of the aisle's take on recent events
