@@ -12,7 +12,7 @@ This list was originally on Google Docs. That version is now deprecated, please 
 
 Keep in mind: **I cannot speak to the veracity of all the information presented here. Don't be surprised if some of the studies/papers presented in these links were retracted by their authors, have serious methodological flaws, or are generally low-quality. Just know you have been warned.**
 
-In the event that this website dies, you can access it (alongside all pages linked here) [here](https://web.archive.org/web/20210211233619/http://www.soopakhell.xyz/) on the Wayback Machine.
+In the event that this website dies, you can access several saved versions (alongside all pages linked here) on the [Wayback Machine](https://web.archive.org/web/*/http://www.soopakhell.xyz/).
 
 ## General
 
