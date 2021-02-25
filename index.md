@@ -26,30 +26,26 @@ These are factsheets with a very broad scope.
     -   a compilation of studies, data, media, literature, etc. aimed at arguing for social-democratic viewpoints
 -   [argument mega doc](https://docs.google.com/document/d/1Ldspdu3DRXhBS_6EyHORYl8RZ_Wqto3N1cwIowa_fOg/mobilebasic)
     -   Some quick points and resources on a variety of topics
--   [Ultimate \#1 State-funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/mobilebasic)
-    -   Numerous sources pertaining to relevant debates over American economic policy from a lefty perspective, but existing within the realm of left-liberal policies of the Democrats
 -   [gaffepundit's Website](https://sites.google.com/view/matteristheminimum/)
     -   A website which serves as a great compilation of debunks on BLM, Law enforcement, systemic racism, and some other topics
 -   [Lefty Fact Sheet](https://docs.google.com/document/d/1sLgLinCmSZP7QbXoVjZCkY89cNJ8MIawX2ycCzbnCmY/mobilebasic) \[15391 words\]
     -   A detailed and broad collection of sources supporting leftism/leftist ideology by Naturea
 -   [Leftist Almanac of Research and Policy](https://docs.google.com/document/d/1mQhMGz6SeDPXJjkNcO8FuNsTaA6Q5McAxTw6VqQ1dPs/mobilebasic) \[20667 words\]
--   [SockDem\'s \#1 Economic Fact Sheet™](https://docs.google.com/document/d/1stqf0RzJgB0X0boOWg8PoXAvm2edATdsJhttQ6AxIyM/mobilebasic) \[3591 words\]
-    -   A very fact and research based approach to economic issues from a lefty perspective
 -   [Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/mobilebasic) \[5912 words\]
     -   A well-annotated research/source document by Vaush that focuses primarily on Immigration, Systemic Racism, and LGBT issues
 
-## Energy / Climate
+## Economy
 
-Factsheets dealing with the scientific reality of climate change and the efficacy of renewable energy sources.
+Factsheets surrounding economic policies.
 
--   [Energy Factsheet](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/mobilebasic) \[2228 words\]
-    -   "A brief look at the shortcomings of fossil fuels and the efficacy of nuclear power and renewable sources for a clean, efficient, and sustainable future." by NB419
--   [Global Warming & Climate Change Myths](https://www.skepticalscience.com/argument.php) \[4477 words\]
-    -   Debunks \~200 climate change denial myths
--   [The Wikipedia Article on Global Warming](https://en.wikipedia.org/wiki/Global_warming) \[10356 words, not counting references\]
-    -   An incredibly detailed and accurate rundown of everything you need to know about global warming, its effects, the science behind it, etc. Many wikipedia editors consider this to be the single best article on the website
--   [Climate Change FAQ - NASA](https://climate.nasa.gov/faq/)
-    -   Concisely answers common questions about climate change
+-   [SockDem\'s \#1 Economic Fact Sheet™](https://docs.google.com/document/d/1stqf0RzJgB0X0boOWg8PoXAvm2edATdsJhttQ6AxIyM/mobilebasic) \[3591 words\]
+    -   A very fact and research based approach to economic issues from a lefty perspective
+-   [Ultimate \#1 State-funded Socialist Doc](https://docs.google.com/document/d/1uK_5_iXDga_KXZjTvSOBdOZZnGmMhLKadLtojdLWBkc/mobilebasic)
+    -   Numerous sources pertaining to relevant debates over American economic policy from a lefty perspective, but existing within the realm of left-liberal policies of the Democrats
+-   [Impacts of minimum wages](https://www.gov.uk/government/publications/impacts-of-minimum-wages-review-of-the-international-evidence)
+    -   An extensive (72-page) review of the literature on the minimum wage
+-   [Minimum Wage Increases do not Cause Job Loss](https://www.businessforafairminimumwage.org/news/00135/research-shows-minimum-wage-increases-do-not-cause-job-loss)
+    -   A collection of studies which show that raising the minimum wage does not raise unemployment (up to a certain point)
 
 ## LGBT
 
@@ -72,13 +68,14 @@ Factsheets intended to debunk misconceptions or false claims about LGBT people.
 
 Factsheets and sources critiquing the utility and biological validity of Race.
 
--   [Mutualism](https://docs.google.com/document/d/1KcvxBOHSuUg5RvJNoxAJx_nY5UXOwHuRGCqKf8Efn_g/mobilebasic)
-    -   Evidence for mutualism, the theory of intelligence that your different cognitive abilities (vocabulary, reasoning, mathematics) help eachother grow over time. This theory is generally proposed as an alternative to the g factor model of intelligence.
 -   [Race Realism](https://docs.google.com/document/d/1UoK4E6amunVpMLutG2q4cANK7qd8B9Hd4PzUNmYlyYE/mobilebasic) \[8844 words\]
     -   Excellent doc about Race Realism; very extensive and gets straight to the point
     -   Includes rebuttals to commonly cited Race Realist authors and some studies
 -   [Racism doc](https://docs.google.com/document/d/1_BMYsKh6O7Q58YRG8ARMr5Pjt-CrRdkbmZYbQS5p5zk/mobilebasic)
-    -   Just a few links explaining why race is fake news
+    -   Just a few links explaining why race is kinda fake news
+-   [Mutualism](https://docs.google.com/document/d/1KcvxBOHSuUg5RvJNoxAJx_nY5UXOwHuRGCqKf8Efn_g/mobilebasic)
+    -   Evidence for mutualism, the theory of intelligence that your different cognitive abilities (vocabulary, reasoning, mathematics) help eachother grow over time. This theory is generally proposed as an alternative to the g factor model of intelligence.
+
 -   [Useful Links for Arguing with Racists](https://docs.google.com/document/d/1qhW9j1dexPe2VJWr83ufZHaAlOiEGvaHe9ARUqmWNuA/mobilebasic)
     -   A big meta-collection of links/sources to combat racist talking-points
 -   [The RationalWiki Article on Racialism](https://rationalwiki.org/wiki/Racialism)
@@ -109,6 +106,19 @@ Factsheets containing evidence for insitutional/systemic discrimination, particu
 -   [Mapping Police Violence](https://mappingpoliceviolence.org/)
     -   Some neat graphics about police violence in the US
 
+## United States
+
+Factsheets primarily concerned with problems in US government and politics.
+
+-   [List of Atrocities Committed by U.S. Authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
+    -   An overwhelmingly detailed and thorough documentation of terrible acts the US has committed overseas and domestically by dessalines on GitHub
+-   [US Imperialism](https://docs.google.com/document/d/1o3UycdBFOziaBxEtoEuUaC_NuJPfQlDsMA4YA1KRlkM/mobilebasic) \[WIP\]
+    -   A breakdown of instances of US Imperialism throughout history by RockyDerFailure
+-   [Debunking 2020 Voter Fraud Claims](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/mobilebasic)
+    -   Debunks common claims of fraud in the 2020 presidential election.
+-   [Poverty Fact Sheet](https://docs.google.com/document/d/10XqJh8CxTP0mTTfdGM4EeXc5HTkanfmJlvFRP7MhINU/mobilebasic) \[From 2015, some stats are outdated\]
+    -   A compilation of stats on US poverty, unemployment, etc.
+
 ## Electoral Reform
 
 Resources on ways we can improve how democracy functions.
@@ -121,25 +131,10 @@ Resources on ways we can improve how democracy functions.
     -   A pretty good rundown of flaws in American democracy, and proposed solutions to these flaws
 -   [ACLU Fact Sheet on Voter ID Laws](https://www.aclu.org/sites/default/files/field_document/aclu_voter_id_fact_sheet_-_final.pdf)
     -   Some useful stats on the effects and efficacy of Voter ID legislation
-
-## United States
-
-Factsheets primarily concerned with problems in US government and politics.
-
--   [List of Atrocities Committed by U.S. Authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
-    -   An overwhelmingly detailed and thorough documentation of terrible acts the US has committed overseas and domestically by dessalines on GitHub
--   [US Imperialism](https://docs.google.com/document/d/1o3UycdBFOziaBxEtoEuUaC_NuJPfQlDsMA4YA1KRlkM/mobilebasic) \[WIP\]
-    -   A breakdown of instances of US Imperialism throughout history by RockyDerFailure
--   [Debunking 2020 Voter Fraud Claims](https://docs.google.com/document/d/1pIH1Y7E8PU-QCAcWnLVKzVKe8jHt7bQsZdfsK347FcA/mobilebasic)
-    -   Debunks common claims of fraud in the 2020 presidential election.
--   [Voter Suppression During the 2018 Midterm Elections](https://outline.com/rGXGnN)
-    -   "A comprehensive survey of voter suppression and other Election Day problems"
--   [Poverty Fact Sheet](https://docs.google.com/document/d/10XqJh8CxTP0mTTfdGM4EeXc5HTkanfmJlvFRP7MhINU/mobilebasic) \[From 2015, some stats are outdated\]
-    -   A compilation of stats on US poverty, unemployment, etc.
     
 ## Trump
 
-Factsheets and sources about why Trump sucks.
+Factsheets and sources about why Trump sucks. May remove this, now that he's basically irrelevant
 
 -   [Biden > Trump](https://docs.google.com/document/d/1-dDFOk4yvlGwkURvq9j5Fp3ztd0L23DGcSBSjilusgQ/mobilebasic) \[7377 words\]
     -   Why Joe Biden is the superior candidate compared to Trump for the 2020 Presidential election
@@ -162,6 +157,19 @@ Factsheets and sources about why Trump sucks.
 -   [Tracking Trump\'s Conflicts of Interest](https://docs.google.com/spreadsheets/d/1-_vJDLlCtd94zaieFeB2qdLB9WUdNPIryWBFNuXAAZ8/htmlview)
     -   A spreadsheet documenting each of Trump's conflicts of interest
 
+## Energy / Climate
+
+Factsheets dealing with the scientific reality of climate change and the efficacy of renewable energy sources.
+
+-   [Energy Factsheet](https://docs.google.com/document/d/1xuJ5J2zuhBYGud_6p4G2U4Y_hkugtu4Lkw4_I045CYQ/mobilebasic) \[2228 words\]
+    -   "A brief look at the shortcomings of fossil fuels and the efficacy of nuclear power and renewable sources for a clean, efficient, and sustainable future." by NB419
+-   [Global Warming & Climate Change Myths](https://www.skepticalscience.com/argument.php) \[4477 words\]
+    -   Debunks \~200 climate change denial myths
+-   [The Wikipedia Article on Global Warming](https://en.wikipedia.org/wiki/Global_warming) \[10356 words, not counting references\]
+    -   An incredibly detailed and accurate rundown of everything you need to know about global warming, its effects, the science behind it, etc. Many wikipedia editors consider this to be the single best article on the website
+-   [Climate Change FAQ - NASA](https://climate.nasa.gov/faq/)
+    -   Concisely answers common questions about climate change
+
 ## Uncategorized / Fun
 
 Factsheets that don't fit neatly into the other categories, or ones that only exist for fun.
@@ -178,8 +186,6 @@ Factsheets that don't fit neatly into the other categories, or ones that only ex
     -   Several short critiques and debunks of some PragerU videos
 -   [Vaccines Research Document](https://docs.google.com/document/d/1fZj78ylDcPhXIvLBtEGTcyKDtjFCKv99hjoIG0USZIo/mobilebasic)
     -   "debunks many common anti-vaccine claims supported with numerous sources" by unmastered____
--   [Minimum Wage Increases do not Cause Job Loss](https://www.businessforafairminimumwage.org/news/00135/research-shows-minimum-wage-increases-do-not-cause-job-loss)
-    -   A collection of studies which show that raising the minimum wage does not raise unemployment
 -   [Debunking \"Hitler was a Socialist\"](https://docs.google.com/document/d/1NmY4-9KzMx9G1uEoxgc4VBm2dpQRH1gu8wdT5_Djwzc/mobilebasic)
     -   Summarizes several articles that debunk the all-too-common chud talking-point that the Nazis and Hitler were Socialists
 -   [Index of Published Evidence on Mass Extermination in Auschwitz](https://holocaustcontroversies.blogspot.com/2012/10/index-of-published-evidence-on.html)
@@ -189,7 +195,7 @@ Factsheets that don't fit neatly into the other categories, or ones that only ex
 -   [Debunking Myths About the Police](https://old.reddit.com/user/flesh_eating_turtle/comments/h0qll6/debunking_myths_about_the_police_aka_refuting/)
     -   A few stats and rebuttals to myths about police by /u/flesh_eating_turtle
 -   [Right Wing = Stupid](https://docs.google.com/document/d/1WqTDd-x85q1RGMeAopGaEWkXUG_RXF0eJ9YTpDtoSDc/mobilebasic)
-    -   Numerous studies that all seem to point to the fact that being conservative/right-wing is linked to having low intelligence
+    -   hmmmmmm
 -   [BannedThought.net](http://www.bannedthought.net/)
     -   This site aims to document instances "suppression of progressive ideas and thought by reactionary governments and their agents anywhere in the world"
 
